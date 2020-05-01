@@ -1,6 +1,6 @@
 #!/bin/bash
 #=================================================
-# Description: DIY script
+# Description: DIY script 
 # Lisence: MIT
 # Author: eSirPlayground
 # Youtube Channel: https://goo.gl/fvkdwm 
